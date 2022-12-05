@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "darbinis": "nodemon ./js/darbinis.js",
+    "uzdaviniai": "nodemon ./js/uzdaviniai.js",
     "dev": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
